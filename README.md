@@ -1,16 +1,38 @@
-### Hi there 👋
 
-<!--
-**Stacy-net/Stacy-net** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I’m Anastasiia 👋
 
-Here are some ideas to get you started:
+Frontend Developer with hands-on experience in building responsive, user-friendly web interfaces.
+Currently focused on improving my React and TypeScript skills and deepening my frontend expertise.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 💻 Frontend Developer (HTML, SASS, JavaScript, React, TypeScript)
+- 🧩 Experience with multi-page websites and e-commerce layouts
+- 📚 Actively improving JavaScript & frontend architecture
+- 🌱 Learning React and modern frontend tools
+- 🎯 Interested in clean UI, structured CSS, and scalable code
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+- HTML5
+- CSS3 / SASS (SCSS)
+- JavaScript (ES6+)
+- React
+- TypeScript
+
+**Tools**
+- Git & GitHub
+- npm
+- ESLint / Stylelint
+- Netlify
+
+
+## 🌍 Let’s Connect
+
+- 💼 LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/anastasiia-bielik8/)
+
