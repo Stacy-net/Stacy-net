@@ -34,5 +34,5 @@ Currently focused on improving my React and TypeScript skills and deepening my f
 
 ## 🌍 Let’s Connect
 
-- 💼 LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/anastasiia-bielik8/)
+- 💼 LinkedIn: [https://linkedin.com/in/anastasiia-bielik8](https://www.linkedin.com/in/anastasiia-bielik8/)
 
